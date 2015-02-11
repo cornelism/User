@@ -34,7 +34,7 @@
         "color": [100,100,100],
         "font.bold": true,
          "shadow_offset": [0, 0],
-         "font.size": 16
+         "font.size": 14
     },
     {
         "class": "sidebar_heading",
@@ -49,7 +49,7 @@
         "class": "sidebar_label",
         "color": [200,200,200],
         "font.bold": false,
-        "font.size": 12
+        "font.size": 10
     },
     {
         "class": "sidebar_label",
