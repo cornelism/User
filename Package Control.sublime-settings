@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Can I Use",
+		"ColorPicker",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Javatar",
+		"LESS",
+		"MarkdownLight",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Terminal"
+	]
+}
