@@ -1,4 +1,4 @@
-@cornelism's ST3 Settings
+[@cornelism](http://www.twitter.com/cornelism)'s ST3 Settings
 
 cd into Sublime Text 3 Packages and just open terminal:
 ```
