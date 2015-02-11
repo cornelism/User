@@ -1,5 +1,16 @@
 [
- 
+    {
+        "class": "icon_file_type",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
+    },
     {
         "class": "sidebar_container",
         "layer0.tint": [55,55,55],
