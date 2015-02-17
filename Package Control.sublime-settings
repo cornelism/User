@@ -11,7 +11,6 @@
 		"CSS3",
 		"EditorConfig",
 		"Emmet",
-		"Git",
 		"GitGutter",
 		"JavaScript Snippets",
 		"Javatar",
@@ -20,8 +19,10 @@
 		"Package Control",
 		"Project Manager",
 		"Sass",
+		"SASS Snippets",
 		"SCSS",
 		"SideBarEnhancements",
-		"Terminal"
+		"Terminal",
+		"W3CValidators"
 	]
 }
