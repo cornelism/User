@@ -5,7 +5,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Markdown"
+		"Markdown",
+		"SublimeLinter"
 	],
 	"word_wrap": false
 }
