@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"All Autocomplete",
 		"Autoprefixer",
 		"BracketHighlighter",
