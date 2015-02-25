@@ -1,12 +1,24 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"fade_fold_buttons": false,
 	"font_face": "Consolas",
 	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
+		"SublimeLinter",
 		"Vintage",
-		"Markdown",
-		"SublimeLinter"
+		"Markdown"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+/*	"rulers":
+	[
+		80
+	],*/
+	"tab_size": 4,
 	"word_wrap": false
 }
