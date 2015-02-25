@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"Can I Use",
 		"Color Highlighter",
@@ -14,6 +15,7 @@
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"Inc-Dec-Value",
 		"JavaScript Snippets",
 		"Javatar",
