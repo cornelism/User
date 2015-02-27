@@ -4,18 +4,19 @@
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"font_face": "Consolas",
-	"font_size": 8,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeLinter",
-		"Markdown",
 		"Autoprefixer",
-		"Vintage"
+		"Vintage",
+		"SublimeLinter",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"tab_size": 4,
+	"terminal": "cmd.exe",
 	"word_wrap": false
 }
