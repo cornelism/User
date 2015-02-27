@@ -1,18 +1,22 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"font_face": "Consolas",
-	"font_size": 10,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Autoprefixer",
+		"ColorPicker",
+		"JavaScriptNext - ES6 Syntax",
+		"Theme - Phoenix",
+		"Theme - Afterglow",
+		"Markdown",
 		"Vintage",
+		"Autoprefixer",
 		"SublimeLinter",
-		"Markdown"
+		"JsFormat"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
