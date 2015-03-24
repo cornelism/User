@@ -8,15 +8,15 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Theme - Afterglow",
-		"JavaScriptNext - ES6 Syntax",
-		"Theme - Phoenix",
 		"Autoprefixer",
+		"Vintage",
 		"JsFormat",
-		"Markdown",
+		"Theme - Phoenix",
 		"SublimeLinter",
-		"ColorPicker"
+		"Markdown",
+		"Theme - Afterglow",
+		"ColorPicker",
+		"JavaScriptNext - ES6 Syntax"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
