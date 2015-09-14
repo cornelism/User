@@ -7,4 +7,6 @@ $ git clone https://github.com/cornelism/User.git
 
 Now open ST3 and it will automatically install everything.
 
+Sublime might ask to restart a few times.
+
 So easy! ^^
